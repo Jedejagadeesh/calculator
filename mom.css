@@ -1,0 +1,80 @@
+#jaa{
+                width:320px;
+                height:50px;
+                border:2px solid white;
+                margin-left: 400px;
+                overflow: hidden;
+                font-size:50px;
+                border-top-left-radius: 50%;
+                border-top-right-radius: 50%;
+            }
+            .gou{
+                width:320px;
+                height:420px;
+                border: 2px solid white;
+                position: relative;
+                bottom: 30px;
+                left: 390px;
+                  border-bottom-left-radius: 10%;
+                border-bottom-right-radius: 10%;
+            }
+            div{
+                display: block;
+                gap:10px;
+                margin-top: 15px;
+                margin-left: 10px;
+            }
+            button{
+                width:50px;
+                height:50px;
+                border-radius: 50%;
+                font-size:larger;
+                border: 2px solid white;
+                background-color:white;
+                cursor: pointer;
+            }
+            button:hover{
+                border:5px solid black;
+                background-color: grey;
+                color:black;
+                font-size: 25px;
+            }
+            .a{
+                display: flex;
+                gap:30px;
+            }
+            .b{
+                display: flex;
+                gap:30px;
+            }
+            .c{
+                display: flex;
+                gap:30px;
+            }
+            .d{
+                display: flex;
+                gap:30px;
+            }
+            .e{
+                display: flex;
+                gap:30px;
+            }
+            .spandana{
+                background-color:orange;
+                color: black;
+            }
+            .gouthami{
+                background-color: grey;
+            }
+            #jaa{
+                text-align: center;
+                padding-top: 17px;
+                font-size: 29px;
+                font-weight: bolder;
+                font-style:oblique;
+                color: white;
+            
+            }
+      body{
+        background-color: black;
+      }
